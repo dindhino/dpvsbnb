@@ -1,0 +1,22 @@
+Terdapat dua buah executable file, yaitu KnapsackBNB.exe dan KnapsackDP.exe
+- KnapsackDP.exe untuk menjalankan program dengan strategi algoritma Dynamic Programming
+- KnapsackBNB.exe untuk menjalankan program dengan strategi algoritma Branch and Bound
+
+Double klik pada executable file untuk menjalankan program.
+
+Untuk input data masing-masing executable file,
+Baris pertama untuk menginputkan sebanyak n buah objek,
+n baris berikutnya untuk menginputkan bobot dan profit,
+setelah menginputkan sebanyak n baris, baris berikutnya untuk menginputkan kapasitas
+
+Contoh inputan :
+4
+2 40
+5 30
+10 50
+5 10
+16
+
+Hasil output menunjukkan hasil profit maksimal.
+Contoh output :
+90
